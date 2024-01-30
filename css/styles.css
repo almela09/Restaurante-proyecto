@@ -1,13 +1,20 @@
-/* .divCenter{
-    display: flex;
-    justify-content:center;
-    align-items: center;
+.body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
 }
- .foto{
-    width: 20em;
-    height: 30em;
- } */
+
+ /*LOGOTIPO AJUSTE*/
  .navbar-brand img {
-    height: 2.5em; /* Altura del logotipo */
-    margin-right: 0.5em; /* Espacio a la derecha del logotipo */
+    height: 2.5em; 
+    margin-right: 0.5em; 
+    display: flex;
+    justify-content: center;
+}
+
+.pieDePagina{
+    display: flex;
+    flex-direction: column; 
+    margin: 0;
+    padding: 0;
 }
