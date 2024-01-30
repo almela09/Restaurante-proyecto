@@ -1,0 +1,13 @@
+/* .divCenter{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+ .foto{
+    width: 20em;
+    height: 30em;
+ } */
+ .navbar-brand img {
+    height: 2.5em; /* Altura del logotipo */
+    margin-right: 0.5em; /* Espacio a la derecha del logotipo */
+}
