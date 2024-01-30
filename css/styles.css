@@ -12,22 +12,10 @@
     justify-content: center;
 }
 
-.imgCenter {
-    display: flex;
-    justify-content: center; 
-    align-items: center; 
-    height: 100vh; 
-}
-.container-imagen {
-    display: flex;
-    justify-content: center; /* Centra horizontalmente */
-    align-items: center; /* Centra verticalmente */
-    height: 100vh; /* Altura completa de la ventana del navegador */
-   
-}
+/* añadir a las demás hojas de estilo el ajuste de lofotipo. */
 
-.img-fluid {
-    max-width: 100%; /* Máxima anchura de la imagen */
-    height: auto; /* Altura automática para mantener la proporción */
-    border-radius: 1em;
+
+.customCarrusel{
+    max-width: 75%;
+    margin: auto;
 }
