@@ -12,5 +12,13 @@
     justify-content: center;
 }
 
-/* añadir a las demás hojas de estilo el ajuste de lofotipo. */
+/* añadir a las demás hojas de estilo el ajuste de logotipo. */
+
+/* cambiar color botones tarjetas pagina de inicio */
+
+.btn-primary{
+    background-color: black;
+    border: 0;
+}
+
 

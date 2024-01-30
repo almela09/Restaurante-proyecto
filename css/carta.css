@@ -1,10 +1,12 @@
-.body{
-    background-color: grey;
-}
 
 .navbar-brand img {
     height: 2.5em; 
     margin-right: 0.5em; 
     display: flex;
     justify-content: center;
+}
+
+.btn-primary{
+    background-color: black;
+    border: 0;
 }
