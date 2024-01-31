@@ -43,12 +43,16 @@ la página.
 :x: Version móvil: en la página carta, las tarjetas no se queda
 centradas y se alinean hacia la izquierda.
 
+:x: Margen pequeño a cada lado del footer
+
 
 ### Próximas funcionalidades :white_check_mark:
  :rocket: Añadir pedidos
  :rocket: Añadir reservas
 
 ### Vistas :eyes:
+ <img src="/img/web-vista-1.png">
+ <img src="/img/vista-movil.png">
 
 
 
