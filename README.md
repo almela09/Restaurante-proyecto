@@ -8,7 +8,7 @@
     - CSS
     - Librería Bootstrap
 - Bugs conocidos
-- Vistas
+- Autor
 
 ### ¿De que va el proyecto? :computer:
 Diseño de una **página web** con la temática de hamburgueseria que consta de tres páginas: inicio, carta y contacto. Es responsive.
@@ -22,7 +22,7 @@ Diseño de una **página web** con la temática de hamburgueseria que consta de 
 
 </p>
 
-### Bugs conocidos :fearful:
+### Bugs conocidos :collision:
 
 :x: 1.Footer página de contacto se queda en medio de
 la página.
@@ -30,7 +30,12 @@ la página.
 :x: Version móvil: en la página carta, las tarjetas no se queda
 centradas y se alinean hacia la izquierda.
 
-### Vista
+### Autor :grin:
+
+    Paula Almela
+
+
+
 
  
 
