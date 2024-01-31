@@ -8,6 +8,7 @@
     - CSS
     - Librería Bootstrap
 
+- Deploy
 - Instalacion local
 - Bugs conocidos
 - Próximas funcionalidades
@@ -28,6 +29,11 @@ Diseño de una **página web** con temática restaurante de hamburguesas como pr
 <img src="/img/bootstrap.png" alt="html5" width="70" height = "70">
 
 </p>
+
+### Deploy
+ <div align="center">
+    <a href="https://almela09.github.io/Restaurante-proyecto/"><strong>Burguer Home</strong></a>
+</div>
 
 ### Instalación local :wrench:
 1. Clonar repositorio
