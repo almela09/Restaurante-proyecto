@@ -117,9 +117,6 @@ centradas y se alinean hacia la izquierda.
 
 
 
-### Autor :grin:
-
-    Paula Almela
 
 
 
