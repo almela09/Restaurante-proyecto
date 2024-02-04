@@ -1,10 +1,30 @@
 .body{
     background-color: grey;
+    margin:0;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
 }
 
+.container{
+    max-width: 37.5em;
+    margin:0 auto;
+    padding: 1em;
+    box-shadow:c0c0.25em 0.5em rgba(0,0,0,0.1);
+}
 .navbar-brand img {
     height: 2.5em; 
     margin-right: 0.5em; 
     display: flex;
     justify-content: center;
 }
+
+.btn-primary{
+    background-color: black;
+    border: 0;
+  }
+
+.btn {
+    width: 100%;
+  }
